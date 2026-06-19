@@ -1,5 +1,5 @@
 # UART_Receiver
-##overview
+## overview
 This project implements a UART(universal Asynchronous Receiver Transmitter) Receiver in verilog HDL. The design receives serial UART data and converts it into 8-bit parallel data. The receiver was verified using both verilator + GTK wave and xilinx vivado simulator.
 
 ## UART Receiver Design specifications :
