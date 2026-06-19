@@ -31,3 +31,10 @@ checks the stop bit,transfers data to output and asserts data_ready.
 
 ## Block Diagram 
 
+![IMG-20260619-WA0018.jpg](https://github.com/user-attachments/assets/431bd878-be69-43b0-abad-e33b85ee9ee5)
+
+## Data Transmission flow 
+
+![Screenshot_2026-06-19-16-43-23-91_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg](https://github.com/user-attachments/assets/d5221391-7f85-4890-a464-fe5dcdade949)
+
+
