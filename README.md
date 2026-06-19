@@ -60,7 +60,7 @@ checks the stop bit,transfers data to output and asserts data_ready.
 5) Then enter the command gtkwave uat_receiver.vcd and hit enter it will redirect you to the gtk wave application now select the required signals and append them to the waveform and verify the results.
 
 ## Verification Results 
- ### Verilator TErminal output 
+ ### Verilator Terminal output 
  <img width="1366" height="578" alt="Verilator_Terminal_output" src="https://github.com/user-attachments/assets/08c47bd7-fed3-4178-a4f1-83d02d9efe4d" />
 
  ### GTK Waveform
